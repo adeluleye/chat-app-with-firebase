@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "995040943021",
+    "firebase_url": "https://flashchat-android-5eed8.firebaseio.com",
+    "project_id": "flashchat-android-5eed8",
+    "storage_bucket": "flashchat-android-5eed8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:995040943021:android:a96dcf1c964da4f5",
+        "android_client_info": {
+          "package_name": "com.spantom.chatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "995040943021-0gnirjp7s5g0jcitb6sip61jshqegmqf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.spantom.chatapp",
+            "certificate_hash": "1042c4a860a7715e45d0103314740efb7ea0a2ee"
+          }
+        },
+        {
+          "client_id": "995040943021-vhc81st6gnlodneaabsj7o7tcerkf1dv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBfEx9JRyhrS0FT1ZBuAgRjcGAHNWc96E8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "995040943021-vhc81st6gnlodneaabsj7o7tcerkf1dv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
